@@ -1,0 +1,21 @@
+{
+  "name": "etrue3",
+  "version": "1.0.1",
+  "description": "for truechain blockchain rpc interface & also support eth mainnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "true",
+    "truechain",
+    "wallet",
+    "token"
+  ],
+  "author": "lakepx",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
